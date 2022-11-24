@@ -25,13 +25,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ValidateChuoi">
     <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.DemoHashSet" />
@@ -117,6 +117,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669187261153</updated>
       <workItem from="1669187262359" duration="9514000" />
+      <workItem from="1669220687862" duration="1825000" />
+      <workItem from="1669254112529" duration="1145000" />
     </task>
     <servers />
   </component>
